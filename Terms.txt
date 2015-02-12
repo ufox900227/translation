@@ -203,7 +203,7 @@ confusion, 730 混淆
 
 diffusion, 730 扩散
 
-Data Encryption Standard(DES), 732 标准数据加密
+Data Encryption Standard(DES), 732 数据加密标准
 
 substitution, 733 替换
 
