@@ -1,1 +1,1 @@
-# 整理的专业词, 新单词等
+# new words and Terms for translation
