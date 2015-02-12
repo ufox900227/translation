@@ -1,242 +1,244 @@
-µÚ¶şÕÂ
+ç¬¬äºŒç« 
 
-sender, 38 ·¢ËÍÕß
+sender, 38 å‘é€è€…
 
-recipient, 38 ½ÓÊÕÕß
+recipient, 38 æ¥æ”¶è€…
 
-transmission medium, 38 ´«Êä½éÖÊ
+transmission medium, 38 ä¼ è¾“ä»‹è´¨
 
-interceptor, 38 ½ØÈ¡Õß
+interceptor, 38 æˆªå–è€…
 
-intruder, 38 ÈëÇÖÕß
+intruder, 38 å…¥ä¾µè€…
 
-encryption, 38 ¼ÓÃÜ
+encryption, 38 åŠ å¯†
 
-decryption, 38 ½âÃÜ
+decryption, 38 è§£å¯†
 
-encode, 38 ±àÂë
+encode, 38 ç¼–ç 
 
-decode, 38 ½âÂë
+decode, 38 è§£ç 
 
-encipher, 38 ±àÃÜÂë
+encipher, 38 ç¼–å¯†ç 
 
-decipher, 38 ÒëÃÜÂë
+decipher, 38 è¯‘å¯†ç 
 
-cryptosystem, 38 ÃÜÂëÌåÖÆ
+cryptosystem, 38 å¯†ç ä½“åˆ¶
 
-plaintext, 39 Ã÷ÎÄ
+plaintext, 39 æ˜æ–‡
 
-ciphertext, 39 ÃÜÎÄ
+ciphertext, 39 å¯†æ–‡
 
-algorithm, 39 Ëã·¨
+algorithm, 39 ç®—æ³•
 
-key, 39 ÃÜÔ¿
+key, 39 å¯†é’¥
 
-symmetric, 39 ¶Ô³ÆµÄ
+symmetric, 39 å¯¹ç§°çš„
 
-asymmetric, 39 ·Ç¶Ô³ÆµÄ
+asymmetric, 39 éå¯¹ç§°çš„
 
-keyless cipher, 40 ÎŞÃÜÔ¿ÃÜÂë
+keyless cipher, 40 æ— å¯†é’¥å¯†ç 
 
-cryptography, 40 ÃÜÂë±àÂëÑ§
+cryptography, 40 å¯†ç ç¼–ç å­¦
 
-cryptanalyst, 40 ÃÜÂëÆÆÒëÕß
+cryptanalyst, 40 å¯†ç ç ´è¯‘è€…
 
-cryptology, 40 ÃÜÂëÑ§
+cryptology, 40 å¯†ç å­¦
 
-break an encryption, 41 ÆÆÒë¼ÓÃÜ
+break an encryption, 41 ç ´è¯‘åŠ å¯†
 
-substitution, 43 Ìæ»»
+substitution, 43 æ›¿æ¢
 
-transposition, 43 ÖÃ»»
+transposition, 43 ç½®æ¢
 
-substitution cipher, 44 Ìæ»»ÃÜÂë
+substitution cipher, 44 æ›¿æ¢å¯†ç 
 
-monoalphabetic substitution, 44 µ¥×Ö·ûÌæ»»·¨
+monoalphabetic substitution, 44 å•å­—ç¬¦æ›¿æ¢æ³•
 
-simple substitution, 44 ¼òµ¥Ìæ»»·¨
+simple substitution, 44 ç®€å•æ›¿æ¢æ³•
 
-Caesar cipher, 44 âıÈöÃÜÂë
+Caesar cipher, 44 æºæ’’å¯†ç 
 
-permutation, 46 ÖØÅÅ
+permutation, 46 é‡æ’
 
-one-time pad, 49 Ò»´ÎÒ»ÃÜÂÒÂë±¾
+one-time pad, 49 ä¸€æ¬¡ä¸€å¯†ä¹±ç æœ¬
 
-Vigen¨¨re tableau, 49 Î¬¼ªÄáÑÇ±í
+VigenÃ¨re tableau, 49 ç»´å‰å°¼äºšè¡¨
 
-Vernam cipher, 50 ¸¥ÄÉÄ·ÃÜÂë
+Vernam cipher, 50 å¼—çº³å§†å¯†ç 
 
-book cipher, 52 ÃÜÂë±¾
+book cipher, 52 å¯†ç æœ¬
 
-transposition, 55 ÖÃ»»
+transposition, 55 ç½®æ¢
 
-columnar transposition, 55 ÁĞÖÃ»»
+columnar transposition, 55 åˆ—ç½®æ¢
 
-digram, 56 Ë«×ÖÄ¸×é
+digram, 56 åŒå­—æ¯ç»„
 
-trigram, 56 Èı×ÖÄ¸×é
+trigram, 56 ä¸‰å­—æ¯ç»„
 
-product cipher, 58 ³Ë»ıÃÜÂë
+product cipher, 58 ä¹˜ç§¯å¯†ç 
 
-secure cryptographic system, 60 °²È«ÃÜÂëÌåÖÆ
+secure cryptographic system, 60 å®‰å…¨å¯†ç ä½“åˆ¶
 
-amount of secrecy, 60 ±£ÃÜÁ¿
+amount of secrecy, 60 ä¿å¯†é‡
 
-error propagation, 61 ´íÎóÀ©É¢
+error propagation, 61 é”™è¯¯æ‰©æ•£
 
-authentication, 62 Éí·İÈÏÖ¤
+authentication, 62 èº«ä»½è®¤è¯
 
-key distribution, 62 ÃÜÔ¿·ÖÅä
+key distribution, 62 å¯†é’¥åˆ†é…
 
-key management, 62 ÃÜÔ¿¹ÜÀí
+key management, 62 å¯†é’¥ç®¡ç†
 
-stream cipher, 62 Á÷ÃÜÂë
+stream cipher, 62 æµå¯†ç 
 
-block cipher, 63 ·Ö×éÃÜÂë
+block cipher, 63 åˆ†ç»„å¯†ç 
 
-confusion, 64 »ìÂÒĞÔ
+confusion, 64 æ··ä¹±æ€§
 
-diffusion, 64 À©É¢ĞÔ
+diffusion, 64 æ‰©æ•£æ€§
 
-ciphertext-only attack, 65 Î¨ÃÜÎÄ¹¥»÷
+ciphertext-only attack, 65 å”¯å¯†æ–‡æ”»å‡»
 
-known plaintext attack, 65 ÒÑÖªÃ÷ÎÄ¹¥»÷
+known plaintext attack, 65 å·²çŸ¥æ˜æ–‡æ”»å‡»
 
-probable plaintext attack, 66 ¿ÉÄÜÃ÷ÎÄ¹¥»÷
+probable plaintext attack, 66 å¯èƒ½æ˜æ–‡æ”»å‡»
 
-chosen plaintext attack, 66 Ñ¡ÔñÃ÷ÎÄ¹¥»÷
+chosen plaintext attack, 66 é€‰æ‹©æ˜æ–‡æ”»å‡»
 
-chosen ciphertext attack, 66 Ñ¡ÔñÃÜÎÄ¹¥»÷
+chosen ciphertext attack, 66 é€‰æ‹©å¯†æ–‡æ”»å‡»
 
-Data Encryption Standard (DES), 68 Êı¾İ¼ÓÃÜ±ê×¼
+Data Encryption Standard (DES), 68 æ•°æ®åŠ å¯†æ ‡å‡†
 
-Data Encryption Algorithm-1, 69 Êı¾İ¼ÓÃÜËã·¨-1
+Data Encryption Algorithm-1, 69 æ•°æ®åŠ å¯†ç®—æ³•-1
 
-double DES, 70 Ë«ÖØDES
+double DES, 70 åŒé‡DES
 
-triple DES, 71 ÈıÖØDES
+triple DES, 71 ä¸‰é‡DES
 
-differential cryptanalysis, 71 ²î·ÖÃÜÂë·ÖÎö
+differential cryptanalysis, 71 å·®åˆ†å¯†ç åˆ†æ
 
-Advanced Encryption Standard (AES), 72 ¸ß¼¶¼ÓÃÜ±ê×¼
+Advanced Encryption Standard (AES), 72 é«˜çº§åŠ å¯†æ ‡å‡†
 
-cycle or round, 73 Ò»ÂÖ(Ñ­»·»òµü´ú)
+cycle or round, 73 ä¸€è½®(å¾ªç¯æˆ–è¿­ä»£)
 
-public key encryption, 76 ¹«Ô¿¼ÓÃÜ
+public key encryption, 76 å…¬é’¥åŠ å¯†
 
-asymmetric encryption system, 76 ·Ç¶Ô³Æ¼ÓÃÜÌåÖÆ
+asymmetric encryption system, 76 éå¯¹ç§°åŠ å¯†ä½“åˆ¶
 
-private key, 76 Ë½Ô¿
+private key, 76 ç§é’¥
 
-secret key, 76 ÃÜÔ¿
+secret key, 76 å¯†é’¥
 
-RivestShamirAdelman (RSA) algorithm, 77 RSAËã·¨
+RivestShamirAdelman (RSA) algorithm, 77 RSAç®—æ³•
 
-cryptographic hash function, 79 ÃÜÂë¹şÏ£º¯Êı
+cryptographic hash function, 79 å¯†ç å“ˆå¸Œå‡½æ•°
 
-message digest, 79 ÏûÏ¢ÕªÒª
+message digest, 79 æ¶ˆæ¯æ‘˜è¦
 
-hash, 79 ¹şÏ£
+hash, 79 å“ˆå¸Œ
 
-checksum, 79 Ğ£ÑéºÍ
+checksum, 79 æ ¡éªŒå’Œ
 
-one-way function, 79 µ¥Ïòº¯Êı
+one-way function, 79 å•å‘å‡½æ•°
 
-chaining, 80 Á´½Ó
+chaining, 80 é“¾æ¥
 
-key exchange, 80 ÃÜÔ¿½»»»
+key exchange, 80 å¯†é’¥äº¤æ¢
 
-digital signature, 82 Êı×ÖÇ©Ãû
+digital signature, 82 æ•°å­—ç­¾å
 
-certificate, 84 Ö¤Êé
+certificate, 84 è¯ä¹¦
 
-certificate authority, 88 Ö¤Êé¹ÜÀíÖĞĞÄ
+certificate authority, 88 è¯ä¹¦ç®¡ç†ä¸­å¿ƒ
 
 
-µÚÊ®¶şÕÂ
+ç¬¬åäºŒç« 
 
-computational complexity, 718 ¼ÆËã¸´ÔÓĞÔ
+computational complexity, 718 è®¡ç®—å¤æ‚æ€§
 
-NP-complete problems, 719 NP-ÍêÈ«ÎÊÌâ
+NP-complete problems, 719 NP-å®Œå…¨é—®é¢˜
 
-satisfiability problem, 719 ¿ÉÂú×ãĞÔÎÊÌâ
+satisfiability problem, 719 å¯æ»¡è¶³æ€§é—®é¢˜
 
-knapsack problem, 719 ±³°üÎÊÌâ
+knapsack problem, 719 èƒŒåŒ…é—®é¢˜
 
-clique problem, 720 ¼¯ÍÅÎÊÌâ
+clique problem, 720 é›†å›¢é—®é¢˜
 
-complexity class P, 721 PÀà¸´ÔÓĞÔÎÊÌâ
+complexity class P, 721 Pç±»å¤æ‚æ€§é—®é¢˜
 
-complexity class NP, 721 NPÀà¸´ÔÓĞÔÎÊÌâ
+complexity class NP, 721 NPç±»å¤æ‚æ€§é—®é¢˜
 
-nondeterministic Turing machine, 721 ·ÇÈ·¶¨ĞÔÍ¼Áé»ú
+nondeterministic Turing machine, 721 éç¡®å®šæ€§å›¾çµæœº
 
-inverse, 725 ÄæÔª
+inverse, 725 é€†å…ƒ
 
-divisible, 725 Õû³ı
+divisible, 725 æ•´é™¤
 
-prime number, 725 ËØÊı
+prime number, 725 ç´ æ•°
 
-composite number, 725 ºÏÊı
+composite number, 725 åˆæ•°
 
-greatest common divisor, 726 ×î´ó¹«Ô¼Êı
+greatest common divisor, 726 æœ€å¤§å…¬çº¦æ•°
 
-Euclidean algorithm, 726 Õ·×ªÏà³ı·¨
+Euclidean algorithm, 726 è¾—è½¬ç›¸é™¤æ³•
 
-modular arithmetic, 726 Ä£ÔËËã
+modular arithmetic, 726 æ¨¡è¿ç®—
 
-commutative ring, 727 ½»»»»·
+commutative ring, 727 äº¤æ¢ç¯
 
-Galois field, 727 GaloisÓò
+Galois field, 727 GaloisåŸŸ
 
-associativity, 727 ½áºÏÂÉ
+associativity, 727 ç»“åˆå¾‹
 
-commutativity, 727 ½»»»ÂÉ
+commutativity, 727 äº¤æ¢å¾‹
 
-distributivity, 727 ·ÖÅäÂÉ
+distributivity, 727 åˆ†é…å¾‹
 
-reducibility, 727 ¿É»¯¼òĞÔ
+reducibility, 727 å¯åŒ–ç®€æ€§
 
-Fermat's theorem, 729 ·ÑÂí¶¨Àí
+Fermat's theorem, 729 è´¹é©¬å®šç†
 
-confusion, 730 »ìÏı
+confusion, 730 æ··æ·†
 
-diffusion, 730 À©É¢
+diffusion, 730 æ‰©æ•£
 
-Data Encryption Standard(DES), 732 Êı¾İ¼ÓÃÜ±ê×¼
+Data Encryption Standard(DES), 732 æ•°æ®åŠ å¯†æ ‡å‡†
 
-substitution, 733 Ìæ»»
+substitution, 733 æ›¿æ¢
 
-permutation, 733 ÖÃ»»
+permutation, 733 ç½®æ¢
 
-expansion permutation, 733 À©Õ¹ÖÃ»»
+expansion permutation, 733 æ‰©å±•ç½®æ¢
 
-S-box, 739 SºĞ
+S-box, 739 Sç›’
 
-P-box, 739 PºĞ
+P-box, 739 Pç›’
 
-weak DES key, 745 DESÈõÃÜÔ¿
+weak DES key, 745 DESå¼±å¯†é’¥
 
-differential cryptanalysis, 747 ²î·ÖÃÜÂë·ÖÎö(Ñ§)
+differential cryptanalysis, 747 å·®åˆ†å¯†ç åˆ†æ(å­¦)
 
-Advanced Encryption System (AES), 748 ¸ß¼¶¼ÓÃÜÌåÖÆ
+Advanced Encryption System (AES), 748 é«˜çº§åŠ å¯†ä½“åˆ¶
 
-substitute byte, 750 Ìæ»»×Ö½Ú
+substitute byte, 750 æ›¿æ¢å­—èŠ‚
 
-shift row, 751 ĞĞÒÆÎ»
+shift row, 751 è¡Œç§»ä½
 
-mix column, 752 ÁĞ»ìºÏ
+mix column, 752 åˆ—æ··åˆ
 
-add subkey, 753 ¼Ó×ÓÃÜÔ¿
+add subkey, 753 åŠ å­å¯†é’¥
 
-public key encryption, 757 ¹«Ô¿¼ÓÃÜ
+public key encryption, 757 å…¬é’¥åŠ å¯†
 
-asymmetric algorithm, 757 ·Ç¶Ô³ÆËã·¨
+asymmetric algorithm, 757 éå¯¹ç§°ç®—æ³•
 
-MerkleHellman knapsack, 758 Merkle Hellman±³°ü
+MerkleHellman knapsack, 758 Merkle HellmanèƒŒåŒ…
 
-superincreasing knapsack, 760 ³¬µİÔö±³°ü
+superincreasing knapsack, 760 è¶…é€’å¢èƒŒåŒ…
 
-El Gamal digital signature algorithm, 773 El Gamal Êı×ÖÇ©ÃûËã·¨
+El Gamal digital signature algorithm, 773 El Gamal æ•°å­—ç­¾åç®—æ³•
 
-quantum cryptography, 774 Á¿×ÓÃÜÂëÑ§
+quantum cryptography, 774 é‡å­å¯†ç å­¦
+
+quantum cryptography, 774 é‡å­å¯†ç å­¦
