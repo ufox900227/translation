@@ -1,0 +1,242 @@
+第二章
+
+sender, 38 发送者
+
+recipient, 38 接收者
+
+transmission medium, 38 传输介质
+
+interceptor, 38 截取者
+
+intruder, 38 入侵者
+
+encryption, 38 加密
+
+decryption, 38 解密
+
+encode, 38 编码
+
+decode, 38 解码
+
+encipher, 38 编密码
+
+decipher, 38 译密码
+
+cryptosystem, 38 密码体制
+
+plaintext, 39 明文
+
+ciphertext, 39 密文
+
+algorithm, 39 算法
+
+key, 39 密钥
+
+symmetric, 39 对称的
+
+asymmetric, 39 非对称的
+
+keyless cipher, 40 无密钥密码
+
+cryptography, 40 密码编码学
+
+cryptanalyst, 40 密码破译者
+
+cryptology, 40 密码学
+
+break an encryption, 41 破译加密
+
+substitution, 43 替换
+
+transposition, 43 置换
+
+substitution cipher, 44 替换密码
+
+monoalphabetic substitution, 44 单字符替换法
+
+simple substitution, 44 简单替换法
+
+Caesar cipher, 44 恺撒密码
+
+permutation, 46 重排
+
+one-time pad, 49 一次一密乱码本
+
+Vigenère tableau, 49 维吉尼亚表
+
+Vernam cipher, 50 弗纳姆密码
+
+book cipher, 52 密码本
+
+transposition, 55 置换
+
+columnar transposition, 55 列置换
+
+digram, 56 双字母组
+
+trigram, 56 三字母组
+
+product cipher, 58 乘积密码
+
+secure cryptographic system, 60 安全密码体制
+
+amount of secrecy, 60 保密量
+
+error propagation, 61 错误扩散
+
+authentication, 62 身份认证
+
+key distribution, 62 密钥分配
+
+key management, 62 密钥管理
+
+stream cipher, 62 流密码
+
+block cipher, 63 分组密码
+
+confusion, 64 混乱性
+
+diffusion, 64 扩散性
+
+ciphertext-only attack, 65 唯密文攻击
+
+known plaintext attack, 65 已知明文攻击
+
+probable plaintext attack, 66 可能明文攻击
+
+chosen plaintext attack, 66 选择明文攻击
+
+chosen ciphertext attack, 66 选择密文攻击
+
+Data Encryption Standard (DES), 68 数据加密标准
+
+Data Encryption Algorithm-1, 69 数据加密算法-1
+
+double DES, 70 双重DES
+
+triple DES, 71 三重DES
+
+differential cryptanalysis, 71 差分密码分析
+
+Advanced Encryption Standard (AES), 72 高级加密标准
+
+cycle or round, 73 一轮(循环或迭代)
+
+public key encryption, 76 公钥加密
+
+asymmetric encryption system, 76 非对称加密体制
+
+private key, 76 私钥
+
+secret key, 76 密钥
+
+RivestShamirAdelman (RSA) algorithm, 77 RSA算法
+
+cryptographic hash function, 79 密码哈希函数
+
+message digest, 79 消息摘要
+
+hash, 79 哈希
+
+checksum, 79 校验和
+
+one-way function, 79 单向函数
+
+chaining, 80 链接
+
+key exchange, 80 密钥交换
+
+digital signature, 82 数字签名
+
+certificate, 84 证书
+
+certificate authority, 88 证书管理中心
+
+
+第十二章
+
+computational complexity, 718 计算复杂性
+
+NP-complete problems, 719 NP-完全问题
+
+satisfiability problem, 719 可满足性问题
+
+knapsack problem, 719 背包问题
+
+clique problem, 720 集团问题
+
+complexity class P, 721 P类复杂性问题
+
+complexity class NP, 721 NP类复杂性问题
+
+nondeterministic Turing machine, 721 非确定性图灵机
+
+inverse, 725 逆元
+
+divisible, 725 整除
+
+prime number, 725 素数
+
+composite number, 725 合数
+
+greatest common divisor, 726 最大公约数
+
+Euclidean algorithm, 726 辗转相除法
+
+modular arithmetic, 726 模运算
+
+commutative ring, 727 交换环
+
+Galois field, 727 Galois域
+
+associativity, 727 结合律
+
+commutativity, 727 交换律
+
+distributivity, 727 分配律
+
+reducibility, 727 可化简性
+
+Fermat's theorem, 729 费马定理
+
+confusion, 730 混淆
+
+diffusion, 730 扩散
+
+Data Encryption Standard(DES), 732 标准数据加密
+
+substitution, 733 替换
+
+permutation, 733 置换
+
+expansion permutation, 733 扩展置换
+
+S-box, 739 S盒
+
+P-box, 739 P盒
+
+weak DES key, 745 DES弱密钥
+
+differential cryptanalysis, 747 差分密码分析(学)
+
+Advanced Encryption System (AES), 748 高级加密体制
+
+substitute byte, 750 替换字节
+
+shift row, 751 行移位
+
+mix column, 752 列混合
+
+add subkey, 753 加子密钥
+
+public key encryption, 757 公钥加密
+
+asymmetric algorithm, 757 非对称算法
+
+MerkleHellman knapsack, 758 Merkle Hellman背包
+
+superincreasing knapsack, 760 超递增背包
+
+El Gamal digital signature algorithm, 773 El Gamal 数字签名算法
+
+quantum cryptography, 774 量子密码学
