@@ -288,3 +288,5 @@ outsider  局外人
 machine time  计算机运行时间
 
 factoring number  因式分解
+
+nonce  乱数
