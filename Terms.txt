@@ -290,3 +290,13 @@ machine time  计算机运行时间
 factoring number  因式分解
 
 nonce  乱数
+
+activity  活性
+
+originality  独创性
+
+collision  冲突
+
+integrity codes  完整性校验码
+
+key certificates  密钥证书
