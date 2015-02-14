@@ -300,3 +300,9 @@ collision  冲突
 integrity codes  完整性校验码
 
 key certificates  密钥证书
+
+error detecting codes  检错码
+
+error correcting codes  纠错码
+
+parity  奇偶校验码
