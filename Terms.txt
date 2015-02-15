@@ -1,4 +1,4 @@
-第二章
+﻿第二章
 
 sender, 38 发送者
 
@@ -306,3 +306,17 @@ error detecting codes  检错码
 error correcting codes  纠错码
 
 parity  奇偶校验码
+
+cyclic redundancy  循环冗余
+
+hash code 散列码
+
+Secure Hash Standard  安全散列标准(SHS)
+
+Secure Hash Algorithm  安全散列算法(SHA)
+
+infrastructure  基础设施
+
+non-repudiation  不可否认性
+
+authenticity  真实性
