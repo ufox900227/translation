@@ -320,3 +320,5 @@ infrastructure  基础设施
 non-repudiation  不可否认性
 
 authenticity  真实性
+
+Identities  身份信息
